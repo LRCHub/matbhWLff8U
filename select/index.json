@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "5×20",
+  "base_artist": "嵐",
+  "createdAt": "2026-04-01T05:51:54.290232Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Angel - Live at Richfield Coliseum, Cleveland, OH 5/20/80",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/01_Angel_-_Live_at_Richfield_Coliseum,_Cleveland,_OH_5_20_80_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Angel (live at Richfield Coliseum, Cleveland, OH 5/20/80)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/02_Angel_(live_at_Richfield_Coliseum,_Cleveland,_OH_5_20_80)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blue Letter - Live at Barton Coliseum, Little Rock, AR 5/20/77",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/03_Blue_Letter_-_Live_at_Barton_Coliseum,_Little_Rock,_AR_5_20_77_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blue Letter (live at Barton Coliseum, Little Rock, AR 5/20/77)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/04_Blue_Letter_(live_at_Barton_Coliseum,_Little_Rock,_AR_5_20_77)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'm So Afraid - Live at Richfield Coliseum, Cleveland, OH 5/20/80",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/05_I'm_So_Afraid_-_Live_at_Richfield_Coliseum,_Cleveland,_OH_5_20_80_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I’m So Afraid (live at Richfield Coliseum, Cleveland, OH 5/20/80)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/06_I’m_So_Afraid_(live_at_Richfield_Coliseum,_Cleveland,_OH_5_20_80)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Chain - Live at Richfield Coliseum, Cleveland, OH, 5/20/80",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/07_The_Chain_-_Live_at_Richfield_Coliseum,_Cleveland,_OH,_5_20_80_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Chain (live at Richfield Coliseum, Cleveland, OH, 5/20/80)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/08_The_Chain_(live_at_Richfield_Coliseum,_Cleveland,_OH,_5_20_80)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blue Letter (live at Barton Coliseum, Little Rock, AR 5\u000020\u000077)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/09_Blue_Letter_(live_at_Barton_Coliseum,_Little_Rock,_AR_5\u000020\u000077)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'm So Afraid (live at Richfield Coliseum, Cleveland, OH 5\u000020\u000080)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/10_I'm_So_Afraid_(live_at_Richfield_Coliseum,_Cleveland,_OH_5\u000020\u000080)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Angel (live at Richfield Coliseum, Cleveland, OH 5-20-80)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/11_Angel_(live_at_Richfield_Coliseum,_Cleveland,_OH_5-20-80)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Chain (live at Richfield Coliseum, Cleveland, OH, 5-20-80)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/12_The_Chain_(live_at_Richfield_Coliseum,_Cleveland,_OH,_5-20-80)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "PDM (feat. Alpha 5.20 & Shone)",
+      "artist": "Freeze Corleone",
+      "has_synced": true,
+      "path": "select/13_PDM_(feat._Alpha_5.20_&_Shone)_Freeze_Corleone.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "5:20",
+      "artist": "Fred De Palma",
+      "has_synced": true,
+      "path": "select/14_5_20_Fred_De_Palma.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "5×20",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/15_5×20_ARASHI.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Alpha 5.20",
+      "artist": "Niro",
+      "has_synced": true,
+      "path": "select/16_Alpha_5.20_Niro.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "5:20 + Ritual - Ao Vivo",
+      "artist": "Rancore",
+      "has_synced": true,
+      "path": "select/17_5_20_+_Ritual_-_Ao_Vivo_Rancore.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Mexicali Blues (Live at Campus Stadium, UCSB, Santa Barbara, CA 5/20/73)",
+      "artist": "Grateful Dead",
+      "has_synced": true,
+      "path": "select/18_Mexicali_Blues_(Live_at_Campus_Stadium,_UCSB,_Santa_Barbara,_CA_5_20_73)_Grateful_Dead.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "5×20",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_5×20_嵐.txt"
+    }
+  ]
+}
